@@ -1,0 +1,128 @@
+body {
+    margin: 5%;
+    padding: 0%;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+
+
+h1{
+  text-align: center;
+  align-content: center;
+  align-items: center;
+  background-color: maroon;
+  width: 100%;
+  height: 50px;
+  padding: 0px;
+  border-radius: 40px;
+  background-position: center;
+}
+ h1 a{
+   display: inline-block;
+   margin: 0;
+   text-decoration: none;
+   color: #fff;
+   padding-top: 9px;
+ }
+
+h2{
+  text-align: center;
+}
+ h2 a{
+   text-decoration: none;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   color: maroon;
+ }
+
+.mainhr{ 
+ 
+  border: 0;
+ height: 1px;
+ width: 100%;
+ background: maroon;
+ margin: 15px 0 10px;
+}
+
+details{
+  text-align: left;
+  font-size: 15px;
+  color: black;
+  
+}
+
+details p{
+  background: maroon;
+  text-align: center;
+  width: 100%px;
+  font-weight: 600;
+}
+
+main{
+ text-align: center;
+}
+
+main a{
+  background-color: maroon;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  display: inline-block;
+  margin: 0;
+  
+}
+
+main button{
+  border-color: maroon;
+  border-radius: 40px;
+  background: black;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.rickroll{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align:center;
+  
+}
+
+.child{
+  background: darkred;
+  border-color: maroon;
+  border: solid;
+  width: 40%;
+  height: 40%;
+  background-position: center;
+  display: inline-block;
+  margin: 0;
+}
+
+.child figure img{
+  width: 100%;
+  height: 100%;
+}
+
+.idk{
+   border: 0;
+ height: 1px;
+ width: 70%;
+ background: maroon;
+}
+
+.child button {
+  border: solid;
+  border-color: black;
+  border-radius: 40px;
+  background: darkred;
+}
+
+.child button a{
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
